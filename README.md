@@ -1,2 +1,2 @@
-# ais2
-Readme file
+# AIS2 Repository
+Learning to use Github
