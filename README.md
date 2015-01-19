@@ -1,2 +1,2 @@
-# AIS2 Repository
+# Main Page
 Learning to use Github
